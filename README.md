@@ -1,6 +1,8 @@
 # Bash_Scripts Repository
 Welcome to the Bash Scripts Repository! This repository is dedicated to storing and sharing useful bash scripts that can help automate various tasks and simplify your workflow. Whether you are a beginner or an experienced developer, this repository aims to provide a collection of well-documented and reusable bash scripts.
 
+![External Image](https://patchthenet.com/wp-content/uploads/2022/03/bash-scripting.jpg)
+
 ## Purpose
 The purpose of this repository is to serve as a centralized hub for bash scripts that can be used across different projects and environments. Bash scripting is a powerful tool for automating repetitive tasks, managing system configurations, and performing complex operations efficiently.
 
